@@ -292,8 +292,8 @@ Rtree @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/rtree_16
 ruamel-yaml-conda @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/ruamel_yaml_1699261459931/work
 ruamel.yaml @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/ruamel.yaml_1699247046910/work
 s3fs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_d7ay0p4sbb/croot/s3fs_1714466040643/work
-scikit-image @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_47mm72r30k/croot/scikit-image_1718285237012/work
-scikit-learn @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_4bu2zqzzh9/croot/scikit-learn_1714164755228/work
+scikit-image
+scikit-learn 
 scipy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_15kdberrhr/croot/scipy_1717597139640/work/dist/scipy-1.13.1-cp312-cp312-macosx_10_15_x86_64.whl#sha256=d6eedac036a5adb64ce8a50fe9948f3b329281071aa8198a2353a83e5bca25f6
 Scrapy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_18quwz1daa/croot/scrapy_1708714695745/work
 seaborn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ee_rs2l_8e/croot/seaborn_1718302941172/work
