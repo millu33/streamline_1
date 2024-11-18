@@ -1,2 +1,2 @@
-# streamline_1
+# streamlit_1
 Testing streamline app for DAD class
